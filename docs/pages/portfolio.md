@@ -16,7 +16,7 @@ For a business strategy/data analytics case competition, I developed a set of to
 
 In a team of four, we created a report detailing a variety of machine learning techniques to approach a text classification problem.
 
-<a href="/files/KAI_M_COMP9417_Report.pdf" target="_blank">Read the report here!</a> 
+<a href="/files/COMP9417_REPORT.pdf" target="_blank">Read the report here!</a> 
 
 I used a variant of BERT - distilRoBERTa - to embed and classify instances. An inverse-frequency weighted training algorithm was also used to improve f-score as the dataset was highly unbalanced.
 
