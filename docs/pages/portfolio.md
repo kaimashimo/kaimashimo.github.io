@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Here is a sample of my publicly available work that I've done.
+Here is a sample of some of the work that I've done.
 
 ## Analytics for WooliesX with Twitter
 
@@ -11,6 +11,14 @@ For a business strategy/data analytics case competition, I developed a set of to
 <a href="https://github.com/kaimashimo/wooliesx" target="_blank">**Github Repo**</a>
 * <a href="https://github.com/kaimashimo/wooliesx/blob/main/Sample%20workflow.ipynb" target="_blank">Sample workflow.</a> Pulling, storing and reading tweets. Also includes statistical NLP techniques, sentiment prediction, twitter bot detection, string distance, ngram analysis... the whole nine yards!
 * <a href="https://github.com/kaimashimo/wooliesx/blob/main/sentiment_analysis.ipynb" target="_blank">Sentiment prediction.</a> This was used using the HuggingFace library 🤗🤗🤗.
+
+## Web App for Codenames
+
+Click [here](https://share.streamlit.io/kaimashimo/games/main/app.py) for a web app that uses GLoVe embeddings to find "optimal" clues for one of my favourite board games!
+
+## Market Awareness and Pricing Product
+
+Details are available on request.
 
 ## Machine Learning - Coursework
 

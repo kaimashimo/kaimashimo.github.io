@@ -21,7 +21,7 @@
 title: kai mashimo
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  If you're here you must be early - this site is still in prod. Hope to see you soon when I'm done!
+  Welcome to my website!
 # baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://kaimashimo.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
