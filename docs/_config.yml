@@ -39,6 +39,8 @@ plugins:
 github:
   is_project_page: false
 
+languages: ["en","fr"]
+
 
 
 # Exclude from processing.
