@@ -1,6 +1,20 @@
 <!DOCTYPE html>
 <html lang="{{ site.lang | default: "en-US" }}">
   <head>
+    <!-- <style>
+      /* CSS code */
+      header_link:link {
+        color: white;
+        background-color: transparent;
+        text-decoration: none;
+      }
+
+      header_link:visited {
+        color: white;
+        background-color: transparent;
+        text-decoration: none;
+      }
+    </style> -->
     <meta charset="UTF-8">
 
 {% seo %}
@@ -26,15 +40,26 @@
         <a href="{{ site.github.tar_url }}" class="btn">Download .tar.gz</a>
       {% endif %}
 
-      <a href=/index.html class="btn">🏡 Home</a>
+      <a href=/en/pages/index.html class="text" style="color:white">EN</a>|<a href=/fr/pages/index.html class="text" style="color:white">FR</a>
+      <br />
+      <br />
+      {% if site.buttons.show_home %}
+      <a href=/en/pages/index.html class="btn">🏡 Home</a>
+      {% endif %}
       {% if site.buttons.show_resume %}
-        <a href=/pages/resume.html class="btn">📄 Resumé</a>
+        <a href=resume.html class="btn">📄 Resumé</a>
       {% endif %}
       {% if site.buttons.show_portfolio %}
-        <a href=/pages/portfolio.html class="btn">🎨 My Portfolio</a>
+        <a href=portfolio.html class="btn">🎨 My Portfolio</a>
       {% endif %}
       {% if site.buttons.show_blog %}
-        <a href=/pages/blogs.html class="btn">✏️ Blog Posts</a>
+        <a href=blogs.html class="btn">✏️ Blog Posts</a>
+      {% endif %}
+      {% if site.buttons.show_fr %}
+        <a href=/fr/pages/index.html class="btn">🥐 FR</a>
+      {% endif %}
+      {% if site.buttons.show_en %}
+        <a href=/en/pages/index.html class="btn">🦘 EN</a>
       {% endif %}
     </header>
 
