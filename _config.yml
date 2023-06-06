@@ -2,7 +2,7 @@ title: kai mashimo
 # email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   UNSW, Sydney
-# baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://kaimashimo.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 # show_downloads: true
 google_analytics:
@@ -12,7 +12,7 @@ buttons:
   show_resume: false
   show_portfolio: true
   show_blog: true
-  show_home: false
+  show_home: true
   show_fr: false
   show_en: false
 
@@ -21,6 +21,8 @@ plugins:
 
 github:
   is_project_page: false
+
+
 
 
 

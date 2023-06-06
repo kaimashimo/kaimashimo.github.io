@@ -12,6 +12,12 @@ For a business strategy/data analytics case competition, I developed a set of to
 * <a href="https://github.com/kaimashimo/wooliesx/blob/main/Sample%20workflow.ipynb" target="_blank">Sample workflow.</a> Pulling, storing and reading tweets. Also includes statistical NLP techniques, sentiment prediction, twitter bot detection, string distance, ngram analysis... the whole nine yards!
 * <a href="https://github.com/kaimashimo/wooliesx/blob/main/sentiment_analysis.ipynb" target="_blank">Sentiment prediction.</a> This was used using the HuggingFace library 🤗🤗🤗.
 
+## Sydney Trains Game Solver
+
+Have you ever been on a train in Sydney and looked at the carriage code? It usually looks like "5331". When you're bored, you can try to use addition, subtraction, multiplication and division to get it to ten. I formalised the ruleset and created a website which plays the game! You may need to wake up the website if you're the first user in a while.
+
+<a href="https://kaimashimo-traingame-streamlit-app-rcz9ux.streamlit.app/" target="_blank">Play the game here.</a>
+
 ## Web App for Codenames
 
 Click [here](https://share.streamlit.io/kaimashimo/games/main/app.py) for a web app that uses GLoVe embeddings to find "optimal" clues for one of my favourite board games!
