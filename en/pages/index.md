@@ -4,8 +4,6 @@
 
 layout: default
 ---
-hello :)
-
 ## Welcome to my website!
 
 We are moving again

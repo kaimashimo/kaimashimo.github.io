@@ -4,6 +4,8 @@
 
 layout: default
 ---
-salut :)
-
 ## Bienvenue à ma site web!
+
+projetif - why am I doing this? what is my purpose? Why do I like AI?
+
+Using my skills to help others etc.etc.
