@@ -17,7 +17,7 @@ Pour une compétition de stratégie d'entreprise et d'analyse de données, j'ai 
 
 Avez-vous déjà pris le train à Sydney et regardé le code du wagon ? Il ressemble généralement à "5331". Lorsque vous vous ennuyez, vous pouvez essayer d'utiliser l'addition, la soustraction, la multiplication et la division pour obtenir le chiffre dix. J'ai formalisé les règles et créé un site web qui joue à ce jeu ! Il se peut que vous ayez besoin de réveiller le site web si vous êtes le premier utilisateur depuis un certain temps.
 
-<a href="https://kaimashimo-traingame-streamlit-app-rcz9ux.streamlit.app/" target="_blank">Veuillez trouver le résolveur ici.</a>
+<a href="https://kaimashimo-traingame-1.streamlit.app/" target="_blank">Veuillez trouver le résolveur ici.</a>
 
 ## Application pour Codenames
 

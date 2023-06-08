@@ -16,7 +16,7 @@ For a business strategy/data analytics case competition, I developed a set of to
 
 Have you ever been on a train in Sydney and looked at the carriage code? It usually looks like "5331". When you're bored, you can try to use addition, subtraction, multiplication and division to get it to ten. I formalised the ruleset and created a website which plays the game! You may need to wake up the website if you're the first user in a while.
 
-<a href="https://kaimashimo-traingame-streamlit-app-rcz9ux.streamlit.app/" target="_blank">Play the game here.</a>
+<a href="https://kaimashimo-traingame-1.streamlit.app/" target="_blank">Play the game here.</a>
 
 ## Web App for Codenames
 
