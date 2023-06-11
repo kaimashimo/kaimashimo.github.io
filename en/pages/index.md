@@ -6,8 +6,8 @@ layout: default
 ---
 ## Welcome to my website!
 
-We are moving again
+This is a space for me to showcase a little bit of what I've done and the skills I've picked up over the last couple of years.
 
-While it's a little bare, this is a space for me to showcase a little bit of what I've done and the skills I've picked up over the last couple of years.
+I love learning new skills and practicing them. This site is also an experimentation zone for me to learn front-end-related programming.
 
 I'm passionate about using technology to help others. Feel free to check out my portfolio or some of my writing and enjoy your stay!
