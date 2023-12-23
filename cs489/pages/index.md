@@ -11,4 +11,4 @@ Here is a compilation of the projects I have completed in CS-489: Experience Des
 Use the buttons above to navigate between workshops, download the full portfolio below:
 <!-- Open in a new tab, big font size -->
 
-<a href="/cs489/display_pages/CS489_Portfolio_Kai_Mashimo.pdf" target="_blank" style="font-size: 2em;">🎨</a>
+<a href="/cs489/display_pages/CS489_Portfolio_Kai_Mashimo.pdf" download target="_blank" style="font-size: 2em;">🎨</a>
